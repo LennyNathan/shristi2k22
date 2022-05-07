@@ -195,10 +195,14 @@
     }
     .mid-head{
         display: none;
-        flex-direction: column;
+    }
+
+    .mid-head a img{
+        width: 4vw;
+        margin-left: 6px;
     }
     .last-head{
-        display: none;
+        display: flex;
     }
     .mid-head a{
         font-size: 5vw;
